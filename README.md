@@ -1,6 +1,6 @@
 # Data-Mining
 
-#Python #visualisation #decisiontree #naivebayes #kmeans #apriori
+#Python #dataanalysis #decisiontree #naivebayes #kmeans #apriori
 
 This is a backup of the group project of my university course of Applied Data Mining. (Collaborate with Linda Chien, Megan Liu and Sirikorn Sillapapanich)
 
